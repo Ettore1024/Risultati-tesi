@@ -1,0 +1,219 @@
+Principal Components' percentage explanation 
+
+
+
+Bologna, phylum
+
+PC1's explained percentage: 73.1
+PC2's explained percentage: 13.9
+PC3's explained percentage: 7.1
+
+--------------------------------------
+
+
+Rome, phylum
+
+PC1's explained percentage: 66.4
+PC2's explained percentage: 10.8
+PC3's explained percentage: 9.7
+
+--------------------------------------
+
+
+Budapest, phylum
+
+PC1's explained percentage: 66.4
+PC2's explained percentage: 17.8
+PC3's explained percentage: 6.9
+
+--------------------------------------
+
+
+Rotterdam, phylum
+
+PC1's explained percentage: 53.0
+PC2's explained percentage: 21.8
+PC3's explained percentage: 6.8
+
+--------------------------------------
+
+
+Bologna, class
+
+PC1's explained percentage: 77.9
+PC2's explained percentage: 8.7
+PC3's explained percentage: 4.9
+
+--------------------------------------
+
+
+Rome, class
+
+PC1's explained percentage: 69.1
+PC2's explained percentage: 9.0
+PC3's explained percentage: 7.5
+
+--------------------------------------
+
+
+Budapest, class
+
+PC1's explained percentage: 67.9
+PC2's explained percentage: 14.3
+PC3's explained percentage: 7.6
+
+--------------------------------------
+
+
+Rotterdam, class
+
+PC1's explained percentage: 38.3
+PC2's explained percentage: 22.6
+PC3's explained percentage: 10.1
+
+--------------------------------------
+
+
+Bologna, order
+
+PC1's explained percentage: 75.3
+PC2's explained percentage: 10.3
+PC3's explained percentage: 4.0
+
+--------------------------------------
+
+
+Rome, order
+
+PC1's explained percentage: 66.8
+PC2's explained percentage: 9.3
+PC3's explained percentage: 9.0
+
+--------------------------------------
+
+
+Budapest, order
+
+PC1's explained percentage: 66.3
+PC2's explained percentage: 13.5
+PC3's explained percentage: 7.7
+
+--------------------------------------
+
+
+Rotterdam, order
+
+PC1's explained percentage: 32.5
+PC2's explained percentage: 19.5
+PC3's explained percentage: 11.2
+
+--------------------------------------
+
+
+Bologna, family
+
+PC1's explained percentage: 73.2
+PC2's explained percentage: 9.3
+PC3's explained percentage: 5.2
+
+--------------------------------------
+
+
+Rome, family
+
+PC1's explained percentage: 58.4
+PC2's explained percentage: 14.5
+PC3's explained percentage: 8.0
+
+--------------------------------------
+
+
+Budapest, family
+
+PC1's explained percentage: 64.1
+PC2's explained percentage: 12.7
+PC3's explained percentage: 8.1
+
+--------------------------------------
+
+
+Rotterdam, family
+
+PC1's explained percentage: 29.9
+PC2's explained percentage: 20.3
+PC3's explained percentage: 11.7
+
+--------------------------------------
+
+
+Bologna, genus
+
+PC1's explained percentage: 71.5
+PC2's explained percentage: 8.7
+PC3's explained percentage: 5.1
+
+--------------------------------------
+
+
+Rome, genus
+
+PC1's explained percentage: 54.9
+PC2's explained percentage: 16.7
+PC3's explained percentage: 7.9
+
+--------------------------------------
+
+
+Budapest, genus
+
+PC1's explained percentage: 61.8
+PC2's explained percentage: 12.1
+PC3's explained percentage: 8.9
+
+--------------------------------------
+
+
+Rotterdam, genus
+
+PC1's explained percentage: 26.9
+PC2's explained percentage: 21.8
+PC3's explained percentage: 10.3
+
+--------------------------------------
+
+
+Bologna, species
+
+PC1's explained percentage: 56.5
+PC2's explained percentage: 9.0
+PC3's explained percentage: 6.8
+
+--------------------------------------
+
+
+Rome, species
+
+PC1's explained percentage: 39.0
+PC2's explained percentage: 10.2
+PC3's explained percentage: 9.8
+
+--------------------------------------
+
+
+Budapest, species
+
+PC1's explained percentage: 48.4
+PC2's explained percentage: 11.6
+PC3's explained percentage: 9.0
+
+--------------------------------------
+
+
+Rotterdam, species
+
+PC1's explained percentage: 24.1
+PC2's explained percentage: 16.1
+PC3's explained percentage: 9.3
+
+--------------------------------------
+

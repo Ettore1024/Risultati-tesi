@@ -1,0 +1,125 @@
+------------------
+Rome - species
+------------------
+
+
+Klebsiella pneumoniae
+F_onewayResult(statistic=5.419002733749332, pvalue=0.015114432570110605)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.290     0.013    -0.521    -0.059
+ (0 - 2)     -0.071     0.717    -0.302     0.160
+ (1 - 0)      0.290     0.013     0.059     0.521
+ (1 - 2)      0.220     0.086    -0.027     0.467
+ (2 - 0)      0.071     0.717    -0.160     0.302
+ (2 - 1)     -0.220     0.086    -0.467     0.027
+
+
+Pseudomonas fluorescens
+F_onewayResult(statistic=14.318479535866976, pvalue=0.00022626839468923313)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.461     0.000    -2.201    -0.722
+ (0 - 2)     -1.072     0.005    -1.812    -0.333
+ (1 - 0)      1.461     0.000     0.722     2.201
+ (1 - 2)      0.389     0.434    -0.401     1.179
+ (2 - 0)      1.072     0.005     0.333     1.812
+ (2 - 1)     -0.389     0.434    -1.179     0.401
+
+
+Pseudomonas psychrophila
+F_onewayResult(statistic=2.451818263827427, pvalue=0.11599197062580088)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -2.649     0.099    -5.728     0.430
+ (0 - 2)     -1.335     0.520    -4.414     1.744
+ (1 - 0)      2.649     0.099    -0.430     5.728
+ (1 - 2)      1.314     0.572    -1.978     4.606
+ (2 - 0)      1.335     0.520    -1.744     4.414
+ (2 - 1)     -1.314     0.572    -4.606     1.978
+
+
+Pseudomonas fragi
+F_onewayResult(statistic=17.239181600407544, pvalue=8.128410523108153e-05)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -2.425     0.000    -3.504    -1.345
+ (0 - 2)     -1.474     0.007    -2.554    -0.394
+ (1 - 0)      2.425     0.000     1.345     3.504
+ (1 - 2)      0.950     0.117    -0.204     2.105
+ (2 - 0)      1.474     0.007     0.394     2.554
+ (2 - 1)     -0.950     0.117    -2.105     0.204
+
+
+Francisella noatunensis
+F_onewayResult(statistic=13.483957250084877, pvalue=0.0003105710471176169)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.648     0.000    -0.979    -0.317
+ (0 - 2)     -0.431     0.010    -0.762    -0.100
+ (1 - 0)      0.648     0.000     0.317     0.979
+ (1 - 2)      0.218     0.282    -0.136     0.571
+ (2 - 0)      0.431     0.010     0.100     0.762
+ (2 - 1)     -0.218     0.282    -0.571     0.136
+
+
+Pseudomonas syringae
+F_onewayResult(statistic=9.871662681309259, pvalue=0.0014282325763538659)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.272     0.002    -2.051    -0.493
+ (0 - 2)     -0.950     0.016    -1.729    -0.172
+ (1 - 0)      1.272     0.002     0.493     2.051
+ (1 - 2)      0.322     0.592    -0.511     1.154
+ (2 - 0)      0.950     0.016     0.172     1.729
+ (2 - 1)     -0.322     0.592    -1.154     0.511
+
+
+Acinetobacter johnsonii
+F_onewayResult(statistic=6.070622149984404, pvalue=0.010244648260252275)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      2.569     0.013     0.518     4.620
+ (0 - 2)      0.129     0.986    -1.922     2.179
+ (1 - 0)     -2.569     0.013    -4.620    -0.518
+ (1 - 2)     -2.440     0.028    -4.633    -0.248
+ (2 - 0)     -0.129     0.986    -2.179     1.922
+ (2 - 1)      2.440     0.028     0.248     4.633
+
+
+Acinetobacter harbinensis
+F_onewayResult(statistic=0.23046420813471116, pvalue=0.7966058853768732)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.066     0.998    -2.608     2.476
+ (0 - 2)      0.577     0.832    -1.966     3.119
+ (1 - 0)      0.066     0.998    -2.476     2.608
+ (1 - 2)      0.643     0.818    -2.075     3.361
+ (2 - 0)     -0.577     0.832    -3.119     1.966
+ (2 - 1)     -0.643     0.818    -3.361     2.075
+
+
+Acinetobacter sp. 250
+F_onewayResult(statistic=2.7028977423106633, pvalue=0.09566491895425694)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.976     0.081    -0.106     2.059
+ (0 - 2)      0.508     0.467    -0.575     1.590
+ (1 - 0)     -0.976     0.081    -2.059     0.106
+ (1 - 2)     -0.468     0.564    -1.625     0.689
+ (2 - 0)     -0.508     0.467    -1.590     0.575
+ (2 - 1)      0.468     0.564    -0.689     1.625
+
+
+Myroides odoratimimus
+F_onewayResult(statistic=3.4858616648253955, pvalue=0.053873122780108314)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.525     0.065    -0.029     1.080
+ (0 - 2)      0.025     0.993    -0.529     0.579
+ (1 - 0)     -0.525     0.065    -1.080     0.029
+ (1 - 2)     -0.501     0.106    -1.093     0.092
+ (2 - 0)     -0.025     0.993    -0.579     0.529
+ (2 - 1)      0.501     0.106    -0.092     1.093
+
+

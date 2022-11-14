@@ -1,0 +1,57 @@
+------------------------
+Budapest - genus
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Pseudomonas
+before - inside	Ttest_indResult(statistic=-4.13094195899025, pvalue=0.0025558969920586073)
+after - inside	Ttest_indResult(statistic=-1.4664510673413054, pvalue=0.1732538029286582)
+before - after	Ttest_indResult(statistic=-2.3548286270879726, pvalue=0.0381606837568166)
+
+Klebsiella
+before - inside	Ttest_indResult(statistic=-4.923972384531003, pvalue=0.0008201114609551335)
+after - inside	Ttest_indResult(statistic=-2.5249642981033116, pvalue=0.03012986792022586)
+before - after	Ttest_indResult(statistic=-1.9679060192231441, pvalue=0.07479866458322443)
+
+Streptococcus
+before - inside	Ttest_indResult(statistic=2.230917620903964, pvalue=0.052617896648680974)
+after - inside	Ttest_indResult(statistic=2.4468039549288227, pvalue=0.034445647441735824)
+before - after	Ttest_indResult(statistic=0.1101328520066975, pvalue=0.9142876336327982)
+
+Acinetobacter
+before - inside	Ttest_indResult(statistic=1.389790922473755, pvalue=0.19800628065016132)
+after - inside	Ttest_indResult(statistic=1.5111031261552479, pvalue=0.1616983448566319)
+before - after	Ttest_indResult(statistic=-0.20535252376940985, pvalue=0.8410474863744928)
+
+Francisella
+before - inside	Ttest_indResult(statistic=-3.8214760763095343, pvalue=0.00408067256818451)
+after - inside	Ttest_indResult(statistic=-1.8068658973462401, pvalue=0.10091674917298062)
+before - after	Ttest_indResult(statistic=-2.351234668987694, pvalue=0.03840351844614934)
+
+Neisseria
+before - inside	Ttest_indResult(statistic=3.5758610798972, pvalue=0.005969261153779833)
+after - inside	Ttest_indResult(statistic=1.2034792427915955, pvalue=0.2565069528516566)
+before - after	Ttest_indResult(statistic=1.8937292211441719, pvalue=0.0848457710085277)
+
+Acidovorax
+before - inside	Ttest_indResult(statistic=1.5417982278785685, pvalue=0.15751359343466442)
+after - inside	Ttest_indResult(statistic=1.747209235241931, pvalue=0.1111816381210536)
+before - after	Ttest_indResult(statistic=-0.2672826574482765, pvalue=0.7941964240074214)
+
+Trichococcus
+before - inside	Ttest_indResult(statistic=3.3290486128301544, pvalue=0.008812420005065467)
+after - inside	Ttest_indResult(statistic=4.447049545361922, pvalue=0.0012408191275703302)
+before - after	Ttest_indResult(statistic=-1.4278430437311913, pvalue=0.18110653220537837)
+
+Comamonas
+before - inside	Ttest_indResult(statistic=1.4522027694941368, pvalue=0.18039867086772093)
+after - inside	Ttest_indResult(statistic=0.14683003419199814, pvalue=0.8861841480553397)
+before - after	Ttest_indResult(statistic=2.595545241644459, pvalue=0.02489092265688844)
+
+Faecalibacterium
+before - inside	Ttest_indResult(statistic=2.4895930301562825, pvalue=0.03444500068758711)
+after - inside	Ttest_indResult(statistic=2.9703580278013226, pvalue=0.014037221765644684)
+before - after	Ttest_indResult(statistic=0.34464743790491337, pvalue=0.7368586466693179)
+

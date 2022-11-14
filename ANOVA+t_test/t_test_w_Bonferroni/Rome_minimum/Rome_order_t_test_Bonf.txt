@@ -1,0 +1,57 @@
+------------------------
+Rome - order
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Pseudomonadales
+before - inside	Ttest_indResult(statistic=-6.138854983555834, pvalue=5.0304879779242836e-05)
+after - inside	Ttest_indResult(statistic=-1.7370275875653234, pvalue=0.11302586971421422)
+before - after	Ttest_indResult(statistic=-3.805655760402455, pvalue=0.0025039238896165865)
+
+Enterobacterales
+before - inside	Ttest_indResult(statistic=-5.785550118863298, pvalue=8.666907456281742e-05)
+after - inside	Ttest_indResult(statistic=-1.7016068699627118, pvalue=0.11966018535290654)
+before - after	Ttest_indResult(statistic=-3.6491151435843863, pvalue=0.003331954688978934)
+
+Burkholderiales
+before - inside	Ttest_indResult(statistic=1.6211133429347264, pvalue=0.13095630119960797)
+after - inside	Ttest_indResult(statistic=1.5525122119579309, pvalue=0.15158817923558252)
+before - after	Ttest_indResult(statistic=-0.27931086437265296, pvalue=0.784761925027559)
+
+Flavobacteriales
+before - inside	Ttest_indResult(statistic=0.8500998503254348, pvalue=0.41191008891111525)
+after - inside	Ttest_indResult(statistic=2.1764258846576805, pvalue=0.054574179680227916)
+before - after	Ttest_indResult(statistic=-1.975784648644454, pvalue=0.07162973933309581)
+
+Thiotrichales
+before - inside	Ttest_indResult(statistic=-6.128096727921463, pvalue=5.113203367449902e-05)
+after - inside	Ttest_indResult(statistic=-1.3488505650506766, pvalue=0.20713556136958458)
+before - after	Ttest_indResult(statistic=-4.471867310621618, pvalue=0.0007631689242896357)
+
+Lactobacillales
+before - inside	Ttest_indResult(statistic=2.636930056576447, pvalue=0.02169636747129722)
+after - inside	Ttest_indResult(statistic=1.8489569807030857, pvalue=0.09420605256169756)
+before - after	Ttest_indResult(statistic=-0.02490794864619088, pvalue=0.9805377986118591)
+
+Rhodospirillales
+before - inside	Ttest_indResult(statistic=1.4136740035887205, pvalue=0.18287162337541912)
+after - inside	Ttest_indResult(statistic=1.1225752766951544, pvalue=0.28784718263860676)
+before - after	Ttest_indResult(statistic=0.25743007055774164, pvalue=0.8012081050866517)
+
+Neisseriales
+before - inside	Ttest_indResult(statistic=2.1085409902968837, pvalue=0.05667837703425353)
+after - inside	Ttest_indResult(statistic=1.1600095297109727, pvalue=0.27299083705235827)
+before - after	Ttest_indResult(statistic=1.1586883315478587, pvalue=0.2691223898620778)
+
+Xanthomonadales
+before - inside	Ttest_indResult(statistic=0.9342166251564439, pvalue=0.3686104815234086)
+after - inside	Ttest_indResult(statistic=0.49520355150101875, pvalue=0.631156450426345)
+before - after	Ttest_indResult(statistic=0.08150862483990239, pvalue=0.9363811827001896)
+
+Clostridiales
+before - inside	Ttest_indResult(statistic=3.769133055760918, pvalue=0.00267601549667046)
+after - inside	Ttest_indResult(statistic=0.5873974162607949, pvalue=0.5699613331967812)
+before - after	Ttest_indResult(statistic=3.8050178047339513, pvalue=0.0025068301981087115)
+

@@ -1,0 +1,57 @@
+------------------------
+Budapest - species
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Klebsiella pneumoniae
+before - inside	Ttest_indResult(statistic=-5.933457788802445, pvalue=0.00021978156590623057)
+after - inside	Ttest_indResult(statistic=-2.2119817843214715, pvalue=0.05138790195141713)
+before - after	Ttest_indResult(statistic=-2.486471027024941, pvalue=0.030224310816140788)
+
+Pseudomonas fluorescens
+before - inside	Ttest_indResult(statistic=-2.9413285473607207, pvalue=0.016451166616265486)
+after - inside	Ttest_indResult(statistic=-0.5139660776526127, pvalue=0.6184409656349311)
+before - after	Ttest_indResult(statistic=-3.460703993901329, pvalue=0.005326543607093611)
+
+Pseudomonas psychrophila
+before - inside	Ttest_indResult(statistic=-1.2384682611707232, pvalue=0.2468712899711843)
+after - inside	Ttest_indResult(statistic=0.006877938875999093, pvalue=0.9946475190587207)
+before - after	Ttest_indResult(statistic=-2.331263389015658, pvalue=0.03978038670450802)
+
+Pseudomonas fragi
+before - inside	Ttest_indResult(statistic=-0.40074072280167394, pvalue=0.6979578061675618)
+after - inside	Ttest_indResult(statistic=0.7080591987083753, pvalue=0.4950809604950852)
+before - after	Ttest_indResult(statistic=-2.7953986908981827, pvalue=0.017417532933266894)
+
+Streptococcus pneumoniae
+before - inside	Ttest_indResult(statistic=2.729779979129877, pvalue=0.023232905200361472)
+after - inside	Ttest_indResult(statistic=2.5535586561413424, pvalue=0.02868834556676037)
+before - after	Ttest_indResult(statistic=0.5693264726864209, pvalue=0.580574091238637)
+
+Pseudomonas syringae
+before - inside	Ttest_indResult(statistic=-3.2043916175011007, pvalue=0.010755247646648616)
+after - inside	Ttest_indResult(statistic=-0.6292970654899043, pvalue=0.5432626492944574)
+before - after	Ttest_indResult(statistic=-3.293903130131699, pvalue=0.007154986292301402)
+
+Francisella noatunensis
+before - inside	Ttest_indResult(statistic=-3.867613167235152, pvalue=0.0038025980999947654)
+after - inside	Ttest_indResult(statistic=-1.559354525870769, pvalue=0.14997211968067786)
+before - after	Ttest_indResult(statistic=-3.1934866798644386, pvalue=0.008553273861769383)
+
+Streptococcus agalactiae
+before - inside	Ttest_indResult(statistic=3.0680475036435055, pvalue=0.013396202490612812)
+after - inside	Ttest_indResult(statistic=3.134932422382163, pvalue=0.010601158940157328)
+before - after	Ttest_indResult(statistic=0.8120421172355677, pvalue=0.4339889748955921)
+
+Pseudomonas sp. sgn 46
+before - inside	Ttest_indResult(statistic=-4.205946845480051, pvalue=0.002286476522036428)
+after - inside	Ttest_indResult(statistic=-1.2637715056242624, pvalue=0.23497721147808512)
+before - after	Ttest_indResult(statistic=-2.551482390981074, pvalue=0.026923928970323953)
+
+Pseudomonas filiscindens
+before - inside	Ttest_indResult(statistic=-3.6432327232546196, pvalue=0.005373789960822945)
+after - inside	Ttest_indResult(statistic=-0.9044959250436471, pvalue=0.3870042521672844)
+before - after	Ttest_indResult(statistic=-3.1034324624321306, pvalue=0.010042446395064674)
+

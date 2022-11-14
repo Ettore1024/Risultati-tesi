@@ -1,0 +1,7 @@
+
+
+species
+
+PC1's explained percentage: 46.6
+PC2's explained percentage: 12.3
+PC3's explained percentage: 6.1

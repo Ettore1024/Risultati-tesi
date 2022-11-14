@@ -1,0 +1,125 @@
+------------------
+Budapest - class
+------------------
+
+
+Gammaproteobacteria
+F_onewayResult(statistic=5.603296677706226, pvalue=0.015226678183570956)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.760     0.014    -3.174    -0.346
+ (0 - 2)     -0.423     0.681    -1.722     0.876
+ (1 - 0)      1.760     0.014     0.346     3.174
+ (1 - 2)      1.337     0.056    -0.030     2.704
+ (2 - 0)      0.423     0.681    -0.876     1.722
+ (2 - 1)     -1.337     0.056    -2.704     0.030
+
+
+Betaproteobacteria
+F_onewayResult(statistic=1.194444656654769, pvalue=0.33010007278799036)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.289     0.599    -0.476     1.055
+ (0 - 2)      0.412     0.309    -0.291     1.115
+ (1 - 0)     -0.289     0.599    -1.055     0.476
+ (1 - 2)      0.123     0.903    -0.617     0.863
+ (2 - 0)     -0.412     0.309    -1.115     0.291
+ (2 - 1)     -0.123     0.903    -0.863     0.617
+
+
+Bacilli
+F_onewayResult(statistic=1.0085041941665376, pvalue=0.38820430382521653)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.481     0.378    -0.428     1.391
+ (0 - 2)      0.120     0.927    -0.716     0.955
+ (1 - 0)     -0.481     0.378    -1.391     0.428
+ (1 - 2)     -0.362     0.547    -1.241     0.518
+ (2 - 0)     -0.120     0.927    -0.955     0.716
+ (2 - 1)      0.362     0.547    -0.518     1.241
+
+
+Clostridia
+F_onewayResult(statistic=3.9376272807830404, pvalue=0.04221238836838877)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.888     0.034     0.064     1.713
+ (0 - 2)      0.348     0.475    -0.410     1.106
+ (1 - 0)     -0.888     0.034    -1.713    -0.064
+ (1 - 2)     -0.540     0.216    -1.338     0.257
+ (2 - 0)     -0.348     0.475    -1.106     0.410
+ (2 - 1)      0.540     0.216    -0.257     1.338
+
+
+Flavobacteriia
+F_onewayResult(statistic=1.0783308929405584, pvalue=0.36512243416313983)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.037     0.984    -0.601     0.527
+ (0 - 2)      0.236     0.481    -0.282     0.754
+ (1 - 0)      0.037     0.984    -0.527     0.601
+ (1 - 2)      0.273     0.416    -0.272     0.818
+ (2 - 0)     -0.236     0.481    -0.754     0.282
+ (2 - 1)     -0.273     0.416    -0.818     0.272
+
+
+Negativicutes
+F_onewayResult(statistic=1.619879348636821, pvalue=0.23069664512730975)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.542     0.279    -0.342     1.427
+ (0 - 2)      0.475     0.311    -0.338     1.287
+ (1 - 0)     -0.542     0.279    -1.427     0.342
+ (1 - 2)     -0.068     0.977    -0.923     0.788
+ (2 - 0)     -0.475     0.311    -1.287     0.338
+ (2 - 1)      0.068     0.977    -0.788     0.923
+
+
+Alphaproteobacteria
+F_onewayResult(statistic=2.2602602546754644, pvalue=0.13867526012698095)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.614     0.118    -0.136     1.364
+ (0 - 2)      0.276     0.565    -0.413     0.965
+ (1 - 0)     -0.614     0.118    -1.364     0.136
+ (1 - 2)     -0.338     0.465    -1.064     0.387
+ (2 - 0)     -0.276     0.565    -0.965     0.413
+ (2 - 1)      0.338     0.465    -0.387     1.064
+
+
+Bacteroidia
+F_onewayResult(statistic=1.09302679063698, pvalue=0.3604651074218698)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.214     0.820    -1.136     0.707
+ (0 - 2)      0.285     0.665    -0.562     1.131
+ (1 - 0)      0.214     0.820    -0.707     1.136
+ (1 - 2)      0.499     0.339    -0.392     1.390
+ (2 - 0)     -0.285     0.665    -1.131     0.562
+ (2 - 1)     -0.499     0.339    -1.390     0.392
+
+
+Epsilonproteobacteria
+F_onewayResult(statistic=0.17034591131091764, pvalue=0.8449817934359722)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.081     0.986    -1.233     1.395
+ (0 - 2)      0.264     0.839    -0.944     1.471
+ (1 - 0)     -0.081     0.986    -1.395     1.233
+ (1 - 2)      0.183     0.926    -1.088     1.454
+ (2 - 0)     -0.264     0.839    -1.471     0.944
+ (2 - 1)     -0.183     0.926    -1.454     1.088
+
+
+Fusobacteriia
+F_onewayResult(statistic=2.55708135498347, pvalue=0.11076938659973784)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.869     0.094    -0.133     1.872
+ (0 - 2)      0.331     0.628    -0.590     1.253
+ (1 - 0)     -0.869     0.094    -1.872     0.133
+ (1 - 2)     -0.538     0.346    -1.508     0.432
+ (2 - 0)     -0.331     0.628    -1.253     0.590
+ (2 - 1)      0.538     0.346    -0.432     1.508
+
+

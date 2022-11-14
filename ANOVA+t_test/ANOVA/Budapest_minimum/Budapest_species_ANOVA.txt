@@ -1,0 +1,125 @@
+------------------
+Budapest - species
+------------------
+
+
+Klebsiella pneumoniae
+F_onewayResult(statistic=11.30126939565554, pvalue=0.0010152095237539636)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.496     0.001    -0.768    -0.225
+ (0 - 2)     -0.244     0.056    -0.493     0.006
+ (1 - 0)      0.496     0.001     0.225     0.768
+ (1 - 2)      0.253     0.060    -0.010     0.515
+ (2 - 0)      0.244     0.056    -0.006     0.493
+ (2 - 1)     -0.253     0.060    -0.515     0.010
+
+
+Pseudomonas fluorescens
+F_onewayResult(statistic=6.709037982822912, pvalue=0.008293243395194183)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -3.875     0.013    -6.936    -0.814
+ (0 - 2)     -3.280     0.022    -6.092    -0.468
+ (1 - 0)      3.875     0.013     0.814     6.936
+ (1 - 2)      0.595     0.862    -2.365     3.555
+ (2 - 0)      3.280     0.022     0.468     6.092
+ (2 - 1)     -0.595     0.862    -3.555     2.365
+
+
+Pseudomonas psychrophila
+F_onewayResult(statistic=1.7270103977237024, pvalue=0.21134982879946065)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -4.980     0.305   -13.431     3.471
+ (0 - 2)     -5.002     0.247   -12.766     2.762
+ (1 - 0)      4.980     0.305    -3.471    13.431
+ (1 - 2)     -0.022     1.000    -8.194     8.150
+ (2 - 0)      5.002     0.247    -2.762    12.766
+ (2 - 1)      0.022     1.000    -8.150     8.194
+
+
+Pseudomonas fragi
+F_onewayResult(statistic=1.0053384561021836, pvalue=0.38928930543015716)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.375     0.872    -8.504     5.755
+ (0 - 2)     -3.532     0.365   -10.083     3.018
+ (1 - 0)      1.375     0.872    -5.755     8.504
+ (1 - 2)     -2.157     0.701    -9.052     4.737
+ (2 - 0)      3.532     0.365    -3.018    10.083
+ (2 - 1)      2.157     0.701    -4.737     9.052
+
+
+Streptococcus pneumoniae
+F_onewayResult(statistic=6.2303808921270205, pvalue=0.01072358719008173)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      1.065     0.015     0.204     1.925
+ (0 - 2)      0.098     0.944    -0.692     0.889
+ (1 - 0)     -1.065     0.015    -1.925    -0.204
+ (1 - 2)     -0.966     0.022    -1.798    -0.134
+ (2 - 0)     -0.098     0.944    -0.889     0.692
+ (2 - 1)      0.966     0.022     0.134     1.798
+
+
+Pseudomonas syringae
+F_onewayResult(statistic=6.774290695685617, pvalue=0.008013097897099877)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -3.350     0.011    -5.935    -0.764
+ (0 - 2)     -2.709     0.025    -5.085    -0.333
+ (1 - 0)      3.350     0.011     0.764     5.935
+ (1 - 2)      0.641     0.787    -1.860     3.141
+ (2 - 0)      2.709     0.025     0.333     5.085
+ (2 - 1)     -0.641     0.787    -3.141     1.860
+
+
+Francisella noatunensis
+F_onewayResult(statistic=7.975630748049127, pvalue=0.004371160813772161)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.181     0.003    -1.953    -0.408
+ (0 - 2)     -0.639     0.081    -1.348     0.071
+ (1 - 0)      1.181     0.003     0.408     1.953
+ (1 - 2)      0.542     0.177    -0.205     1.289
+ (2 - 0)      0.639     0.081    -0.071     1.348
+ (2 - 1)     -0.542     0.177    -1.289     0.205
+
+
+Streptococcus agalactiae
+F_onewayResult(statistic=8.993062926291364, pvalue=0.0027114375475808614)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      1.561     0.004     0.510     2.612
+ (0 - 2)      0.140     0.925    -0.826     1.105
+ (1 - 0)     -1.561     0.004    -2.612    -0.510
+ (1 - 2)     -1.421     0.007    -2.437    -0.405
+ (2 - 0)     -0.140     0.925    -1.105     0.826
+ (2 - 1)      1.421     0.007     0.405     2.437
+
+
+Pseudomonas sp. sgn 46
+F_onewayResult(statistic=6.502752392223301, pvalue=0.009254626697838142)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)    -13.122     0.008   -22.688    -3.555
+ (0 - 2)     -7.609     0.095   -16.399     1.180
+ (1 - 0)     13.122     0.008     3.555    22.688
+ (1 - 2)      5.512     0.298    -3.739    14.763
+ (2 - 0)      7.609     0.095    -1.180    16.399
+ (2 - 1)     -5.512     0.298   -14.763     3.739
+
+
+Pseudomonas filiscindens
+F_onewayResult(statistic=7.576028644529661, pvalue=0.005318722364495374)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -3.591     0.006    -6.146    -1.035
+ (0 - 2)     -2.696     0.024    -5.044    -0.348
+ (1 - 0)      3.591     0.006     1.035     6.146
+ (1 - 2)      0.895     0.624    -1.576     3.366
+ (2 - 0)      2.696     0.024     0.348     5.044
+ (2 - 1)     -0.895     0.624    -3.366     1.576
+
+

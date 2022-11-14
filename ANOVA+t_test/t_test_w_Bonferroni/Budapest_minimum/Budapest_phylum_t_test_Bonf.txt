@@ -1,0 +1,57 @@
+------------------------
+Budapest - phylum
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Proteobacteria
+before - inside	Ttest_indResult(statistic=-3.953475337084729, pvalue=0.003337090402119035)
+after - inside	Ttest_indResult(statistic=-2.2768037555781464, pvalue=0.04603517238405342)
+before - after	Ttest_indResult(statistic=-0.2537702866417018, pvalue=0.8043538189465298)
+
+Firmicutes
+before - inside	Ttest_indResult(statistic=3.2839206015809044, pvalue=0.009469800440718426)
+after - inside	Ttest_indResult(statistic=1.9505776795959298, pvalue=0.07967196682699783)
+before - after	Ttest_indResult(statistic=1.0517452569952708, pvalue=0.3154727667081706)
+
+Bacteroidetes
+before - inside	Ttest_indResult(statistic=0.6914268356120524, pvalue=0.5067393025009519)
+after - inside	Ttest_indResult(statistic=0.325199060135379, pvalue=0.7517320339508781)
+before - after	Ttest_indResult(statistic=0.9348422209682459, pvalue=0.3699380212151764)
+
+Actinobacteria
+before - inside	Ttest_indResult(statistic=4.4338751629999384, pvalue=0.0016379434590134303)
+after - inside	Ttest_indResult(statistic=3.666445249308337, pvalue=0.0043425588082904925)
+before - after	Ttest_indResult(statistic=1.9818064962052377, pvalue=0.07304337452712736)
+
+Fusobacteria
+before - inside	Ttest_indResult(statistic=3.4482269020619656, pvalue=0.0072951065872275045)
+after - inside	Ttest_indResult(statistic=1.986276426754498, pvalue=0.07508452079887634)
+before - after	Ttest_indResult(statistic=1.1316648227520663, pvalue=0.28184305978159246)
+
+Elusimicrobia
+before - inside	Ttest_indResult(statistic=-2.1064379684362597, pvalue=0.06444137365832613)
+after - inside	Ttest_indResult(statistic=-1.606132285558627, pvalue=0.1393252756223894)
+before - after	Ttest_indResult(statistic=0.6031458109434787, pvalue=0.5586425246406426)
+
+Verrucomicrobia
+before - inside	Ttest_indResult(statistic=2.859997502984436, pvalue=0.01878046931584816)
+after - inside	Ttest_indResult(statistic=2.4068667444603, pvalue=0.03688033842939024)
+before - after	Ttest_indResult(statistic=1.4314106140149556, pvalue=0.1801056551243911)
+
+Synergistetes
+before - inside	Ttest_indResult(statistic=2.572690963850574, pvalue=0.03005482592755459)
+after - inside	Ttest_indResult(statistic=1.233705920508504, pvalue=0.24552225886560758)
+before - after	Ttest_indResult(statistic=1.2101076747941837, pvalue=0.25159979202844146)
+
+Cyanobacteria
+before - inside	Ttest_indResult(statistic=2.246980677091097, pvalue=0.05125546910083984)
+after - inside	Ttest_indResult(statistic=1.6093818346705597, pvalue=0.1386111847036712)
+before - after	Ttest_indResult(statistic=0.993401851478245, pvalue=0.34186410420158464)
+
+Chloroflexi
+before - inside	Ttest_indResult(statistic=3.29748460570973, pvalue=0.00926701499566272)
+after - inside	Ttest_indResult(statistic=1.8402032166823186, pvalue=0.09556680892268363)
+before - after	Ttest_indResult(statistic=-0.019314802470994288, pvalue=0.9849358715405181)
+

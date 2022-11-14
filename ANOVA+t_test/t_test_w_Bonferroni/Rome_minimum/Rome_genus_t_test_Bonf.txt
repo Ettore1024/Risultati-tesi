@@ -1,0 +1,57 @@
+------------------------
+Rome - genus
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Pseudomonas
+before - inside	Ttest_indResult(statistic=-4.803381251591678, pvalue=0.0004310495874316303)
+after - inside	Ttest_indResult(statistic=-1.5543088732442454, pvalue=0.1511623568446766)
+before - after	Ttest_indResult(statistic=-3.792384969814165, pvalue=0.002565100342657486)
+
+Acinetobacter
+before - inside	Ttest_indResult(statistic=0.9953656097063747, pvalue=0.3392065389423684)
+after - inside	Ttest_indResult(statistic=0.6234958273743201, pvalue=0.5469159890946762)
+before - after	Ttest_indResult(statistic=0.7125772532044201, pvalue=0.4897317213216369)
+
+Klebsiella
+before - inside	Ttest_indResult(statistic=-4.85599715493859, pvalue=0.0003942149775369967)
+after - inside	Ttest_indResult(statistic=-1.7972295783210377, pvalue=0.10251373311418567)
+before - after	Ttest_indResult(statistic=-3.3666898928407685, pvalue=0.005604412301665237)
+
+Flavobacterium
+before - inside	Ttest_indResult(statistic=0.9401982984565928, pvalue=0.365657163068402)
+after - inside	Ttest_indResult(statistic=1.6800580881134144, pvalue=0.12386661086815244)
+before - after	Ttest_indResult(statistic=-1.95248476310688, pvalue=0.07460395396648047)
+
+Acidovorax
+before - inside	Ttest_indResult(statistic=1.594348427832631, pvalue=0.13684220202326097)
+after - inside	Ttest_indResult(statistic=1.3097988446218327, pvalue=0.21955444415883565)
+before - after	Ttest_indResult(statistic=0.3265140049249804, pvalue=0.749659889306681)
+
+Francisella
+before - inside	Ttest_indResult(statistic=-5.347231464552323, pvalue=0.00017439148498092237)
+after - inside	Ttest_indResult(statistic=-1.3792413721407626, pvalue=0.19788287185453748)
+before - after	Ttest_indResult(statistic=-4.439673752492659, pvalue=0.0008073114768540625)
+
+Psychrobacter
+before - inside	Ttest_indResult(statistic=-3.474809853279594, pvalue=0.004590073395251131)
+after - inside	Ttest_indResult(statistic=-1.6095768277947562, pvalue=0.1385684384578116)
+before - after	Ttest_indResult(statistic=-2.10958120705081, pvalue=0.056573677271622026)
+
+Streptococcus
+before - inside	Ttest_indResult(statistic=2.9678902091363786, pvalue=0.011747150579615513)
+after - inside	Ttest_indResult(statistic=1.3171646345934083, pvalue=0.21716579510794176)
+before - after	Ttest_indResult(statistic=1.099554742694351, pvalue=0.29309613086545594)
+
+Myroides
+before - inside	Ttest_indResult(statistic=0.1982599190667797, pvalue=0.8461607766210033)
+after - inside	Ttest_indResult(statistic=2.320757187294415, pvalue=0.04271763045876565)
+before - after	Ttest_indResult(statistic=-1.5820336038819707, pvalue=0.1396268667535444)
+
+Chryseobacterium
+before - inside	Ttest_indResult(statistic=1.4002714008576274, pvalue=0.18675369069161)
+after - inside	Ttest_indResult(statistic=1.7281916763186715, pvalue=0.11464883848954337)
+before - after	Ttest_indResult(statistic=-1.7407189500306828, pvalue=0.10728636876119099)
+

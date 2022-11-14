@@ -1,0 +1,57 @@
+------------------------
+Rome - family
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Pseudomonadaceae
+before - inside	Ttest_indResult(statistic=-4.914792728556356, pvalue=0.0003569239315482022)
+after - inside	Ttest_indResult(statistic=-1.5384576377107093, pvalue=0.1549557405387635)
+before - after	Ttest_indResult(statistic=-3.753436447090384, pvalue=0.002753663773675185)
+
+Moraxellaceae
+before - inside	Ttest_indResult(statistic=-0.004181984622903089, pvalue=0.9967319875191039)
+after - inside	Ttest_indResult(statistic=-0.03174947329560761, pvalue=0.9752965927758848)
+before - after	Ttest_indResult(statistic=0.05132190894100627, pvalue=0.9599134239969389)
+
+Enterobacteriaceae
+before - inside	Ttest_indResult(statistic=-5.193593224190563, pvalue=0.00022425426259681307)
+after - inside	Ttest_indResult(statistic=-1.724868891979187, pvalue=0.11526461823004779)
+before - after	Ttest_indResult(statistic=-3.3234710858438783, pvalue=0.006071039427302672)
+
+Flavobacteriaceae
+before - inside	Ttest_indResult(statistic=0.8319203160304189, pvalue=0.4217008533638079)
+after - inside	Ttest_indResult(statistic=2.191996361628257, pvalue=0.05315612043902329)
+before - after	Ttest_indResult(statistic=-1.9642919393837304, pvalue=0.0730828320960723)
+
+Comamonadaceae
+before - inside	Ttest_indResult(statistic=1.620362753146817, pvalue=0.13111830096694752)
+after - inside	Ttest_indResult(statistic=1.5411442640404402, pvalue=0.15430698048330385)
+before - after	Ttest_indResult(statistic=0.0059561265092064495, pvalue=0.995345599204005)
+
+Francisellaceae
+before - inside	Ttest_indResult(statistic=-5.780917170788975, pvalue=8.72996403955441e-05)
+after - inside	Ttest_indResult(statistic=-1.3586947476934084, pvalue=0.20409942956331856)
+before - after	Ttest_indResult(statistic=-4.365811003908921, pvalue=0.000918927766882618)
+
+Oxalobacteraceae
+before - inside	Ttest_indResult(statistic=0.38599852976882404, pvalue=0.7062539765783582)
+after - inside	Ttest_indResult(statistic=0.8786082097891041, pvalue=0.40023240103809143)
+before - after	Ttest_indResult(statistic=-0.5992166550155266, pvalue=0.5601714971902039)
+
+Streptococcaceae
+before - inside	Ttest_indResult(statistic=2.3944794460674834, pvalue=0.033857721564727467)
+after - inside	Ttest_indResult(statistic=1.0162018114187954, pvalue=0.3334889770887314)
+before - after	Ttest_indResult(statistic=0.5264459455942331, pvalue=0.6081717746005787)
+
+Yersiniaceae
+before - inside	Ttest_indResult(statistic=-6.427506871643763, pvalue=3.266935168194048e-05)
+after - inside	Ttest_indResult(statistic=-1.8409436735834184, pvalue=0.09545100703195909)
+before - after	Ttest_indResult(statistic=-3.925785135325551, pvalue=0.002013953485066821)
+
+Neisseriaceae
+before - inside	Ttest_indResult(statistic=2.09076022641803, pvalue=0.058496367258248326)
+after - inside	Ttest_indResult(statistic=1.170236106122777, pvalue=0.26903922396307245)
+before - after	Ttest_indResult(statistic=1.1350074001621082, pvalue=0.27853503225051357)
+

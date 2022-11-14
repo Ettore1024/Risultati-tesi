@@ -1,0 +1,125 @@
+------------------
+Budapest - family
+------------------
+
+
+Pseudomonadaceae
+F_onewayResult(statistic=6.135813703200583, pvalue=0.011294097483487503)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -3.150     0.009    -5.488    -0.812
+ (0 - 2)     -1.552     0.180    -3.700     0.597
+ (1 - 0)      3.150     0.009     0.812     5.488
+ (1 - 2)      1.598     0.192    -0.663     3.859
+ (2 - 0)      1.552     0.180    -0.597     3.700
+ (2 - 1)     -1.598     0.192    -3.859     0.663
+
+
+Enterobacteriaceae
+F_onewayResult(statistic=7.4540943755880935, pvalue=0.0056527346161046625)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.017     0.007    -1.749    -0.284
+ (0 - 2)     -0.151     0.831    -0.824     0.522
+ (1 - 0)      1.017     0.007     0.284     1.749
+ (1 - 2)      0.865     0.016     0.157     1.574
+ (2 - 0)      0.151     0.831    -0.522     0.824
+ (2 - 1)     -0.865     0.016    -1.574    -0.157
+
+
+Streptococcaceae
+F_onewayResult(statistic=3.746530616237546, pvalue=0.047898311218339464)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.646     0.043     0.019     1.274
+ (0 - 2)      0.181     0.699    -0.396     0.758
+ (1 - 0)     -0.646     0.043    -1.274    -0.019
+ (1 - 2)     -0.465     0.149    -1.072     0.142
+ (2 - 0)     -0.181     0.699    -0.758     0.396
+ (2 - 1)      0.465     0.149    -0.142     1.072
+
+
+Comamonadaceae
+F_onewayResult(statistic=1.908560411598447, pvalue=0.18261466114568592)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.521     0.169    -0.186     1.228
+ (0 - 2)      0.323     0.422    -0.327     0.972
+ (1 - 0)     -0.521     0.169    -1.228     0.186
+ (1 - 2)     -0.198     0.737    -0.882     0.486
+ (2 - 0)     -0.323     0.422    -0.972     0.327
+ (2 - 1)      0.198     0.737    -0.486     0.882
+
+
+Moraxellaceae
+F_onewayResult(statistic=0.8516960810428201, pvalue=0.44632309597886843)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.376     0.443    -0.405     1.157
+ (0 - 2)      0.081     0.954    -0.637     0.798
+ (1 - 0)     -0.376     0.443    -1.157     0.405
+ (1 - 2)     -0.295     0.579    -1.050     0.460
+ (2 - 0)     -0.081     0.954    -0.798     0.637
+ (2 - 1)      0.295     0.579    -0.460     1.050
+
+
+Neisseriaceae
+F_onewayResult(statistic=4.4348974080401975, pvalue=0.0306774529778599)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.826     0.025     0.102     1.551
+ (0 - 2)      0.446     0.223    -0.220     1.112
+ (1 - 0)     -0.826     0.025    -1.551    -0.102
+ (1 - 2)     -0.380     0.361    -1.081     0.321
+ (2 - 0)     -0.446     0.223    -1.112     0.220
+ (2 - 1)      0.380     0.361    -0.321     1.081
+
+
+Francisellaceae
+F_onewayResult(statistic=5.984438353031425, pvalue=0.012280414034212404)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.811     0.010    -3.184    -0.438
+ (0 - 2)     -0.621     0.428    -1.883     0.640
+ (1 - 0)      1.811     0.010     0.438     3.184
+ (1 - 2)      1.190     0.082    -0.138     2.517
+ (2 - 0)      0.621     0.428    -0.640     1.883
+ (2 - 1)     -1.190     0.082    -2.517     0.138
+
+
+Flavobacteriaceae
+F_onewayResult(statistic=0.5834683092513866, pvalue=0.5701333229220031)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.156     0.706    -0.347     0.659
+ (0 - 2)      0.182     0.573    -0.280     0.644
+ (1 - 0)     -0.156     0.706    -0.659     0.347
+ (1 - 2)      0.027     0.989    -0.460     0.513
+ (2 - 0)     -0.182     0.573    -0.644     0.280
+ (2 - 1)     -0.027     0.989    -0.513     0.460
+
+
+Xanthomonadaceae
+F_onewayResult(statistic=4.193026207215042, pvalue=0.03576906208916017)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.791     0.028     0.081     1.502
+ (0 - 2)      0.391     0.294    -0.262     1.044
+ (1 - 0)     -0.791     0.028    -1.502    -0.081
+ (1 - 2)     -0.400     0.313    -1.087     0.287
+ (2 - 0)     -0.391     0.294    -1.044     0.262
+ (2 - 1)      0.400     0.313    -0.287     1.087
+
+
+Ruminococcaceae
+F_onewayResult(statistic=6.564558006757244, pvalue=0.008953932399340931)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      1.344     0.009     0.333     2.356
+ (0 - 2)      0.268     0.739    -0.662     1.197
+ (1 - 0)     -1.344     0.009    -2.356    -0.333
+ (1 - 2)     -1.076     0.030    -2.055    -0.098
+ (2 - 0)     -0.268     0.739    -1.197     0.662
+ (2 - 1)      1.076     0.030     0.098     2.055
+
+

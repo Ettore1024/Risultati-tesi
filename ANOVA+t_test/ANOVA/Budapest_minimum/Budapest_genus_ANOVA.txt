@@ -1,0 +1,125 @@
+------------------
+Budapest - genus
+------------------
+
+
+Pseudomonas
+F_onewayResult(statistic=6.743484444048396, pvalue=0.008143997532968697)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -3.156     0.006    -5.402    -0.909
+ (0 - 2)     -1.722     0.110    -3.786     0.342
+ (1 - 0)      3.156     0.006     0.909     5.402
+ (1 - 2)      1.433     0.232    -0.739     3.606
+ (2 - 0)      1.722     0.110    -0.342     3.786
+ (2 - 1)     -1.433     0.232    -3.606     0.739
+
+
+Klebsiella
+F_onewayResult(statistic=10.229544071388062, pvalue=0.0015766224957867577)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.121     0.001    -1.770    -0.472
+ (0 - 2)     -0.391     0.236    -0.988     0.205
+ (1 - 0)      1.121     0.001     0.472     1.770
+ (1 - 2)      0.730     0.022     0.102     1.358
+ (2 - 0)      0.391     0.236    -0.205     0.988
+ (2 - 1)     -0.730     0.022    -1.358    -0.102
+
+
+Streptococcus
+F_onewayResult(statistic=4.798045153172361, pvalue=0.024501284376699583)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.637     0.039     0.030     1.244
+ (0 - 2)      0.014     0.998    -0.544     0.572
+ (1 - 0)     -0.637     0.039    -1.244    -0.030
+ (1 - 2)     -0.623     0.037    -1.210    -0.036
+ (2 - 0)     -0.014     0.998    -0.572     0.544
+ (2 - 1)      0.623     0.037     0.036     1.210
+
+
+Acinetobacter
+F_onewayResult(statistic=1.8020276994589253, pvalue=0.19889655562635797)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.372     0.285    -0.240     0.984
+ (0 - 2)     -0.029     0.990    -0.592     0.533
+ (1 - 0)     -0.372     0.285    -0.984     0.240
+ (1 - 2)     -0.401     0.216    -0.993     0.190
+ (2 - 0)      0.029     0.990    -0.533     0.592
+ (2 - 1)      0.401     0.216    -0.190     0.993
+
+
+Francisella
+F_onewayResult(statistic=7.12677194287461, pvalue=0.006673379151498432)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.818     0.005    -3.069    -0.567
+ (0 - 2)     -0.793     0.206    -1.943     0.356
+ (1 - 0)      1.818     0.005     0.567     3.069
+ (1 - 2)      1.025     0.104    -0.185     2.235
+ (2 - 0)      0.793     0.206    -0.356     1.943
+ (2 - 1)     -1.025     0.104    -2.235     0.185
+
+
+Neisseria
+F_onewayResult(statistic=4.648849707834202, pvalue=0.026850092074223796)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.778     0.022     0.110     1.447
+ (0 - 2)      0.434     0.192    -0.181     1.048
+ (1 - 0)     -0.778     0.022    -1.447    -0.110
+ (1 - 2)     -0.345     0.373    -0.991     0.302
+ (2 - 0)     -0.434     0.192    -1.048     0.181
+ (2 - 1)      0.345     0.373    -0.302     0.991
+
+
+Acidovorax
+F_onewayResult(statistic=2.2302249461799684, pvalue=0.1419181272091384)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.592     0.226    -0.296     1.480
+ (0 - 2)     -0.061     0.979    -0.877     0.755
+ (1 - 0)     -0.592     0.226    -1.480     0.296
+ (1 - 2)     -0.653     0.153    -1.512     0.206
+ (2 - 0)      0.061     0.979    -0.755     0.877
+ (2 - 1)      0.653     0.153    -0.206     1.512
+
+
+Trichococcus
+F_onewayResult(statistic=11.08521417051987, pvalue=0.0011071404018756453)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      1.238     0.015     0.236     2.240
+ (0 - 2)     -0.499     0.362    -1.419     0.422
+ (1 - 0)     -1.238     0.015    -2.240    -0.236
+ (1 - 2)     -1.736     0.001    -2.705    -0.768
+ (2 - 0)      0.499     0.362    -0.422     1.419
+ (2 - 1)      1.736     0.001     0.768     2.705
+
+
+Comamonas
+F_onewayResult(statistic=1.9090355649996693, pvalue=0.18254550761472127)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.540     0.237    -0.284     1.365
+ (0 - 2)      0.489     0.246    -0.269     1.246
+ (1 - 0)     -0.540     0.237    -1.365     0.284
+ (1 - 2)     -0.051     0.985    -0.849     0.746
+ (2 - 0)     -0.489     0.246    -1.246     0.269
+ (2 - 1)      0.051     0.985    -0.746     0.849
+
+
+Faecalibacterium
+F_onewayResult(statistic=5.812613096889657, pvalue=0.013520247690359857)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      1.429     0.019     0.225     2.632
+ (0 - 2)      0.112     0.963    -0.994     1.217
+ (1 - 0)     -1.429     0.019    -2.632    -0.225
+ (1 - 2)     -1.317     0.026    -2.481    -0.153
+ (2 - 0)     -0.112     0.963    -1.217     0.994
+ (2 - 1)      1.317     0.026     0.153     2.481
+
+

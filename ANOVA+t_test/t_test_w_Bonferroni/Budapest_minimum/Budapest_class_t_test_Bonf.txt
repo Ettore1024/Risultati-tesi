@@ -1,0 +1,57 @@
+------------------------
+Budapest - class
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Gammaproteobacteria
+before - inside	Ttest_indResult(statistic=-3.8805568127237997, pvalue=0.003728236298327346)
+after - inside	Ttest_indResult(statistic=-2.080169373022836, pvalue=0.0641795596591147)
+before - after	Ttest_indResult(statistic=-0.9438627446883934, pvalue=0.36550959085314716)
+
+Betaproteobacteria
+before - inside	Ttest_indResult(statistic=1.542704250540315, pvalue=0.15729591273184437)
+after - inside	Ttest_indResult(statistic=-0.3801304535134895, pvalue=0.7117976736311324)
+before - after	Ttest_indResult(statistic=1.3777469148358488, pvalue=0.1956640092459673)
+
+Bacilli
+before - inside	Ttest_indResult(statistic=2.378125813683699, pvalue=0.04135453441341271)
+after - inside	Ttest_indResult(statistic=0.9197293128227195, pvalue=0.3793657071172596)
+before - after	Ttest_indResult(statistic=0.33644172746827833, pvalue=0.7428685852220911)
+
+Clostridia
+before - inside	Ttest_indResult(statistic=3.1350113621874196, pvalue=0.012024240500841124)
+after - inside	Ttest_indResult(statistic=1.54302370745304, pvalue=0.15385455417552504)
+before - after	Ttest_indResult(statistic=1.2620108877421932, pvalue=0.23304701807584297)
+
+Flavobacteriia
+before - inside	Ttest_indResult(statistic=-0.21566414446851173, pvalue=0.8340578584079998)
+after - inside	Ttest_indResult(statistic=-1.1308322831121445, pvalue=0.2845170894882091)
+before - after	Ttest_indResult(statistic=1.1753495044647717, pvalue=0.2646685294176537)
+
+Negativicutes
+before - inside	Ttest_indResult(statistic=2.511034496129396, pvalue=0.033254261672098835)
+after - inside	Ttest_indResult(statistic=0.18178896719242885, pvalue=0.8593804122612605)
+before - after	Ttest_indResult(statistic=1.3649324391543123, pvalue=0.19954133275111657)
+
+Alphaproteobacteria
+before - inside	Ttest_indResult(statistic=2.829452550682055, pvalue=0.019740038095828135)
+after - inside	Ttest_indResult(statistic=1.1523707471870985, pvalue=0.2759723228275453)
+before - after	Ttest_indResult(statistic=0.9254375004203802, pvalue=0.3745954219477128)
+
+Bacteroidia
+before - inside	Ttest_indResult(statistic=-0.5020936606140534, pvalue=0.6276552944189937)
+after - inside	Ttest_indResult(statistic=-1.6176137333663516, pvalue=0.13681676237393814)
+before - after	Ttest_indResult(statistic=0.9736062848807218, pvalue=0.3511759421669437)
+
+Epsilonproteobacteria
+before - inside	Ttest_indResult(statistic=0.127227967551455, pvalue=0.9015572339335491)
+after - inside	Ttest_indResult(statistic=-0.3701116125630075, pvalue=0.719017705103618)
+before - after	Ttest_indResult(statistic=0.7949341973436261, pvalue=0.44346585959161733)
+
+Fusobacteriia
+before - inside	Ttest_indResult(statistic=3.173901429165134, pvalue=0.011294926893409123)
+after - inside	Ttest_indResult(statistic=1.2624931856454993, pvalue=0.23541791584819538)
+before - after	Ttest_indResult(statistic=0.8784120520647865, pvalue=0.39850138616492414)
+

@@ -1,0 +1,125 @@
+------------------
+Rome - order
+------------------
+
+
+Pseudomonadales
+F_onewayResult(statistic=18.012521102599784, pvalue=6.320146384862401e-05)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.153     0.000    -1.663    -0.643
+ (0 - 2)     -0.768     0.003    -1.278    -0.259
+ (1 - 0)      1.153     0.000     0.643     1.663
+ (1 - 2)      0.385     0.196    -0.160     0.930
+ (2 - 0)      0.768     0.003     0.259     1.278
+ (2 - 1)     -0.385     0.196    -0.930     0.160
+
+
+Enterobacterales
+F_onewayResult(statistic=16.10036221090603, pvalue=0.00011941478603773945)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -0.866     0.000    -1.268    -0.463
+ (0 - 2)     -0.557     0.007    -0.959    -0.155
+ (1 - 0)      0.866     0.000     0.463     1.268
+ (1 - 2)      0.309     0.187    -0.122     0.739
+ (2 - 0)      0.557     0.007     0.155     0.959
+ (2 - 1)     -0.309     0.187    -0.739     0.122
+
+
+Burkholderiales
+F_onewayResult(statistic=2.3600893664086944, pvalue=0.12458821878614394)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.605     0.167    -0.209     1.419
+ (0 - 2)     -0.040     0.991    -0.854     0.774
+ (1 - 0)     -0.605     0.167    -1.419     0.209
+ (1 - 2)     -0.645     0.169    -1.515     0.226
+ (2 - 0)      0.040     0.991    -0.774     0.854
+ (2 - 1)      0.645     0.169    -0.226     1.515
+
+
+Flavobacteriales
+F_onewayResult(statistic=2.7772620665169723, pvalue=0.09043356444830311)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.346     0.611    -0.579     1.271
+ (0 - 2)     -0.553     0.301    -1.478     0.372
+ (1 - 0)     -0.346     0.611    -1.271     0.579
+ (1 - 2)     -0.899     0.078    -1.888     0.090
+ (2 - 0)      0.553     0.301    -0.372     1.478
+ (2 - 1)      0.899     0.078    -0.090     1.888
+
+
+Thiotrichales
+F_onewayResult(statistic=19.043057275284085, pvalue=4.570436024469917e-05)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)     -1.123     0.000    -1.615    -0.631
+ (0 - 2)     -0.819     0.001    -1.311    -0.327
+ (1 - 0)      1.123     0.000     0.631     1.615
+ (1 - 2)      0.304     0.323    -0.222     0.830
+ (2 - 0)      0.819     0.001     0.327     1.311
+ (2 - 1)     -0.304     0.323    -0.830     0.222
+
+
+Lactobacillales
+F_onewayResult(statistic=2.8634394206338722, pvalue=0.08476714570984004)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.229     0.109    -0.044     0.502
+ (0 - 2)     -0.003     1.000    -0.276     0.270
+ (1 - 0)     -0.229     0.109    -0.502     0.044
+ (1 - 2)     -0.232     0.134    -0.523     0.060
+ (2 - 0)      0.003     1.000    -0.270     0.276
+ (2 - 1)      0.232     0.134    -0.060     0.523
+
+
+Rhodospirillales
+F_onewayResult(statistic=1.4255272960877339, pvalue=0.2677043142098135)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.761     0.278    -0.468     1.990
+ (0 - 2)      0.078     0.986    -1.152     1.307
+ (1 - 0)     -0.761     0.278    -1.990     0.468
+ (1 - 2)     -0.683     0.396    -1.997     0.631
+ (2 - 0)     -0.078     0.986    -1.307     1.152
+ (2 - 1)      0.683     0.396    -0.631     1.997
+
+
+Neisseriales
+F_onewayResult(statistic=2.6262549242544755, pvalue=0.10141316000255783)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.756     0.084    -0.090     1.602
+ (0 - 2)      0.341     0.567    -0.505     1.187
+ (1 - 0)     -0.756     0.084    -1.602     0.090
+ (1 - 2)     -0.415     0.483    -1.320     0.490
+ (2 - 0)     -0.341     0.567    -1.187     0.505
+ (2 - 1)      0.415     0.483    -0.490     1.320
+
+
+Xanthomonadales
+F_onewayResult(statistic=0.27798805151032446, pvalue=0.7606826189822979)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.229     0.763    -0.602     1.059
+ (0 - 2)      0.028     0.996    -0.803     0.858
+ (1 - 0)     -0.229     0.763    -1.059     0.602
+ (1 - 2)     -0.201     0.833    -1.089     0.687
+ (2 - 0)     -0.028     0.996    -0.858     0.803
+ (2 - 1)      0.201     0.833    -0.687     1.089
+
+
+Clostridiales
+F_onewayResult(statistic=12.24617362455503, pvalue=0.0005082621848629568)
+Tukey's HSD Pairwise Group Comparisons (95.0% Confidence Interval)
+Comparison  Statistic  p-value  Lower CI  Upper CI
+ (0 - 1)      0.906     0.001     0.376     1.437
+ (0 - 2)      0.816     0.003     0.286     1.347
+ (1 - 0)     -0.906     0.001    -1.437    -0.376
+ (1 - 2)     -0.090     0.913    -0.657     0.477
+ (2 - 0)     -0.816     0.003    -1.347    -0.286
+ (2 - 1)      0.090     0.913    -0.477     0.657
+
+

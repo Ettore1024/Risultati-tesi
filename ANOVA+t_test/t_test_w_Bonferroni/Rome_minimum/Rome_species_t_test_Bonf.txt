@@ -1,0 +1,57 @@
+------------------------
+Rome - species
+
+Bonferroni: alpha = 0.0166667
+------------------------
+
+
+Klebsiella pneumoniae
+before - inside	Ttest_indResult(statistic=-3.0650749449679013, pvalue=0.009806130822450625)
+after - inside	Ttest_indResult(statistic=-2.1569017201503584, pvalue=0.05640374912808159)
+before - after	Ttest_indResult(statistic=-0.881505444655757, pvalue=0.39535792319132024)
+
+Pseudomonas fluorescens
+before - inside	Ttest_indResult(statistic=-4.409995323733006, pvalue=0.0008503613938660832)
+after - inside	Ttest_indResult(statistic=-1.8969708888580388, pvalue=0.08705617439890427)
+before - after	Ttest_indResult(statistic=-3.4803938944300845, pvalue=0.004543067008425028)
+
+Pseudomonas psychrophila
+before - inside	Ttest_indResult(statistic=-1.9671259176182694, pvalue=0.07272201014409185)
+after - inside	Ttest_indResult(statistic=-1.8616998400985443, pvalue=0.09225720260625982)
+before - after	Ttest_indResult(statistic=-0.9668719191881726, pvalue=0.3526910016854574)
+
+Pseudomonas fragi
+before - inside	Ttest_indResult(statistic=-5.32977375735621, pvalue=0.00017941669700754319)
+after - inside	Ttest_indResult(statistic=-1.6824832445504965, pvalue=0.12338664124923567)
+before - after	Ttest_indResult(statistic=-5.88779008381718, pvalue=7.391283071777924e-05)
+
+Francisella noatunensis
+before - inside	Ttest_indResult(statistic=-4.623481056718813, pvalue=0.000586656790739291)
+after - inside	Ttest_indResult(statistic=-1.4599452010421656, pvalue=0.17499567865396232)
+before - after	Ttest_indResult(statistic=-4.051571435172085, pvalue=0.0016057969906590052)
+
+Pseudomonas syringae
+before - inside	Ttest_indResult(statistic=-3.7127897142311124, pvalue=0.0029656600279758492)
+after - inside	Ttest_indResult(statistic=-1.5467072588064188, pvalue=0.15297121149753068)
+before - after	Ttest_indResult(statistic=-2.8377060252618422, pvalue=0.014960267134634383)
+
+Acinetobacter johnsonii
+before - inside	Ttest_indResult(statistic=2.7378527931354055, pvalue=0.018002800643388793)
+after - inside	Ttest_indResult(statistic=2.4869717213533216, pvalue=0.032156566777905245)
+before - after	Ttest_indResult(statistic=0.2696835697002046, pvalue=0.7919852215594521)
+
+Acinetobacter harbinensis
+before - inside	Ttest_indResult(statistic=-0.061836774676486045, pvalue=0.9517108292504586)
+after - inside	Ttest_indResult(statistic=-0.4971870641126461, pvalue=0.6298061274464579)
+before - after	Ttest_indResult(statistic=0.8925593714355629, pvalue=0.38964130566003286)
+
+Acinetobacter sp. 250
+before - inside	Ttest_indResult(statistic=2.018589528669391, pvalue=0.06644946798344359)
+after - inside	Ttest_indResult(statistic=0.847558744870761, pvalue=0.4165079989367717)
+before - after	Ttest_indResult(statistic=2.3127457401313136, pvalue=0.03928030308149094)
+
+Myroides odoratimimus
+before - inside	Ttest_indResult(statistic=2.319525889312032, pvalue=0.03880054771457042)
+after - inside	Ttest_indResult(statistic=2.3663158365244272, pvalue=0.039524980724076314)
+before - after	Ttest_indResult(statistic=0.11301445213520422, pvalue=0.9118877392292376)
+
